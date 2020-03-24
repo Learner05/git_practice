@@ -23,6 +23,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
@@ -36,9 +37,55 @@
       <option name="presentableId" value="Default" />
       <updated>1585074989447</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated">
+      <created>1585075739825</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585075739826</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated">
+      <created>1585075866813</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585075866813</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="266" y="0" key="CommitChangelistDialog2" timestamp="1585075865218">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="266" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1585075865218" />
+    <state x="124" y="50" key="DiffContextDialog" timestamp="1585075862482">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="124" y="50" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1585075862482" />
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1585075969218">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585075969218" />
+    <state x="511" y="234" key="Github.ShareDialog" timestamp="1585076002650">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="511" y="234" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1585076002650" />
     <state x="450" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585075693925">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
